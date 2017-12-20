@@ -1,3 +1,13 @@
 # Selenium-Workshops
 Selenium Workshops. 
-Selenium + Python + POP
+
+Python 3.6.3
+
+unittests
+
+Selenium
+
+GIT
+
+PyCharm
+
